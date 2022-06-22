@@ -1,0 +1,5 @@
+keys = [
+    'Celsius',
+    'Bitfarms',
+    'Банк'
+]
