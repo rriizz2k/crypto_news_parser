@@ -9,7 +9,7 @@ import yagmail
 def send_email(href, title, new, reason):
     f1 = ""
     for i in new:
-        f1 += str(i) + " "
+        f1 += str(i) + ""
     new = f1
 
 
